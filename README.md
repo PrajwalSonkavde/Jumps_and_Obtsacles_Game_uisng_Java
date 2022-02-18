@@ -1,5 +1,8 @@
 # Jumps_and_Obtsacles_Game_uisng_Java
 
+![intro](https://user-images.githubusercontent.com/99462259/154738021-2272a349-ff34-4b7b-929b-e98afbb72b30.gif)
+
+
 -> This Game Almost same as Snake and Ladder difference here is this game does'nt have snake's and ladder's instead it has animals and flying carpet's and some cartoon superhero's ... etc,
 
 -> Atmost 4 player's can play this game and atleast 2 players ...
