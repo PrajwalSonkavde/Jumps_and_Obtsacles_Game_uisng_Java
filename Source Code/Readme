@@ -1,2 +1,2 @@
 This Folder Consists of Source Code which has three packages namely main , Broad and Players in which Board package has Board class , Players Package has Players_roll class 
-and main package has main class 
+and main package has main class , Here In github, to not get confused assume packages as folder and classes are present in their corresponding packages
