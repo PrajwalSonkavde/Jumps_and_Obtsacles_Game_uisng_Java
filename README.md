@@ -1,6 +1,7 @@
 # Jumps_and_Obtsacles_Game_uisng_Java
 
-![Game_Icon](https://user-images.githubusercontent.com/99462259/154738510-6c1cc184-1de1-4f6c-b131-9c649dcfb649.jpg)
+![Game_Icon](https://user-images.githubusercontent.com/99462259/154739069-93ab671f-beaa-4520-a608-1a3fec803ce2.jpg)
+
 
 
 
