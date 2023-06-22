@@ -16,7 +16,7 @@ Programming Language used was by using Java skills and showcasing my creativity.
     
 -> Personal Contribution: I was the sole developer of the game. design and implementation of the complete logic and GUI was done including decision statements such as if, else if, and loops.
 
-/n/n
+<br></br>
 
 I am Prajwal Sonkavde, the developer of the "Obstacles and Jumps" game. As a student pursuing BTech, I took on the challenge of creating this game to apply and expand my Java programming skills. Despite my limited knowledge of Java at the time, I was determined to develop something engaging and interactive.
 
