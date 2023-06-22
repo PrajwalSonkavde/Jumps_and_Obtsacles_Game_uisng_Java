@@ -18,7 +18,7 @@ Programming Language used was by using Java skills and showcasing my creativity.
 
 <br></br>
 
-I am Prajwal Sonkavde, the developer of the "Obstacles and Jumps" game. As a student pursuing BTech, I took on the challenge of creating this game to apply and expand my Java programming skills. Despite my limited knowledge of Java at the time, I was determined to develop something engaging and interactive.
+I'm Prajwal Sonkavde, the developer of the "Obstacles and Jumps" game. As a student pursuing BTech, I took on the challenge of creating this game to apply and expand my Java programming skills. Despite my limited knowledge of Java at the time, I was determined to develop something engaging and interactive.
 
 Throughout the development process, I dedicated considerable time and effort to research, design, and implementation. With a focus on creating a unique twist on the classic "Snake and Ladder" game, I replaced the traditional ladders with animals and objects that either promoted or decreased the player's coin position by 1-30 steps. The game supports multiplayer functionality, allowing a minimum of two and a maximum of four players to compete against each other.
 
