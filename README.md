@@ -4,7 +4,7 @@
 
 
 
-
+<br>
 -> Project Overview: Introduce the project as "Obstacles and Jumps," a multiplayer game inspired by "Snake and Ladder" but with a unique GUI and gameplay elements.
 
 -> Project Structure: Explaination of the structure of the project, including the three main files: "main.java," "players.java," and "board.java. these files are organized in packages to manage classes and dependencies effectively.
