@@ -5,16 +5,16 @@
 
 
 
-Project Overview: Introduce the project as "Obstacles and Jumps," a multiplayer game inspired by "Snake and Ladder" but with a unique GUI and gameplay elements.
+-> Project Overview: Introduce the project as "Obstacles and Jumps," a multiplayer game inspired by "Snake and Ladder" but with a unique GUI and gameplay elements.
 
-Project Structure: Explaination of the structure of the project, including the three main files: "main.java," "players.java," and "board.java. these files are organized in packages to manage classes and dependencies effectively.
+-> Project Structure: Explaination of the structure of the project, including the three main files: "main.java," "players.java," and "board.java. these files are organized in packages to manage classes and dependencies effectively.
     
-Gameplay Description: It is like snake and ladder but instead of ladders, animals and objects are present, influencing the promotion or demotion of coins. the game supports multiplayer functionality only with a minimum of two players and a maximum of four players.
+-> Gameplay Description: It is like snake and ladder but instead of ladders, animals and objects are present, influencing the promotion or demotion of coins. the game supports multiplayer functionality only with a minimum of two players and a maximum of four players.
 
-Development Process: the game was developed during your second semester of BTech. Entire game was Created from scratch, including the logic and GUI implementation. 
+-> Development Process: the game was developed during your second semester of BTech. Entire game was Created from scratch, including the logic and GUI implementation. 
 Programming Language used was by using Java skills and showcasing my creativity.
     
-Personal Contribution: I was the sole developer of the game. design and implementation of the complete logic and GUI was done including decision statements such as if, else if, and loops.
+-> Personal Contribution: I was the sole developer of the game. design and implementation of the complete logic and GUI was done including decision statements such as if, else if, and loops.
 
 
 I am Prajwal Sonkavde, the developer of the "Obstacles and Jumps" game. As a student pursuing BTech, I took on the challenge of creating this game to apply and expand my Java programming skills. Despite my limited knowledge of Java at the time, I was determined to develop something engaging and interactive.
